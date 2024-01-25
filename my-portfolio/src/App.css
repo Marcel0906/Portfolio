@@ -1,0 +1,23 @@
+
+
+ .image {
+    background-image: url(assets/eiche.jpg);
+    background-repeat: no-repeat;
+ }
+
+h1 {
+    text-align: center;
+    
+}
+
+p {
+    font-size: 20px;
+    font-weight: bold;
+   color: #384730;
+   /* color: #fff; */
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+
