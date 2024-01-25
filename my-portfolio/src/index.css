@@ -1,0 +1,9 @@
+body {
+    background-image: url(assets/eiche.jpg);
+    background-repeat: no-repeat;
+    background-color: #a49589;
+    background-size: cover;
+    background-position: center;
+    background: #a49589 url(assets/eiche.jpg) no-repeat center top fixed; 
+}
+
