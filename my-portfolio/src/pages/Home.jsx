@@ -1,6 +1,6 @@
-import React from 'react'
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {faLinkedin, faGithub} from '@fortawesome/free-brands-svg-icons';
+import { Link } from "react-router-dom";
 
 
 const Home = () => {
@@ -14,6 +14,7 @@ const Home = () => {
     <div className='icon2'>
     <FontAwesomeIcon icon={faGithub} />
     </div>
+    <Link to="/about"><button className='btn'>Go to About</button></Link>   
     </div>
     </div>
    
@@ -22,3 +23,7 @@ const Home = () => {
 }
 
 export default Home
+
+
+
+// {/* <a href="/">Go to home</a> */} old version

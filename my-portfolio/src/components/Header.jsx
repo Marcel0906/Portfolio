@@ -1,9 +1,12 @@
-import React from 'react'; 
+import Navigation from "./Navigation.jsx"
 
-const Header = () => { 
-    return (
-    <header> 
-        
-    </header> ); 
-}; 
-    export default Header; 
+const Header = () => {
+  return (
+    <div>
+<Navigation />
+    
+    </div>
+  )
+}
+
+export default Header
