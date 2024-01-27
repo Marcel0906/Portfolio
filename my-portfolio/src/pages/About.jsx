@@ -1,7 +1,7 @@
 import "./About.css"
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {faCss3, faGitAlt, faHtml5, faJsSquare, faNodeJs, faReact} from '@fortawesome/free-brands-svg-icons';
-import { Link } from "react-router-dom";
+
 
 
 const About = () => {
