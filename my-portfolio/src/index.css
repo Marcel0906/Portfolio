@@ -9,14 +9,29 @@ body {
 
 .btn {
     background-color: #7277d1;
+    color: #fff;
+    border: none;
+    font-size: 20px;
    cursor: pointer;
 }
 
+.btn:hover {
+    color: #000;
+}
+
 .icon-list {
-    text-align:center;
+   display: flex;
+   justify-content: center;
+   gap: 10px;
+   flex-direction: row;
+    font-size: 20px;
+ 
 }
 
 .Footer {
     text-align: center;
+    background-color: #7277d1;
+    padding: 10px;
+    color: #fff;
 }
 

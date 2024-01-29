@@ -1,6 +1,6 @@
 const Footer = () => {
   return (
-    <div className="Footer">my Portfolio proudly presented by Marcel Kubetin</div>
+    <div className="Footer">my Portfolio proudly designed and presented by Marcel Kubetin</div>
   )
 }
 

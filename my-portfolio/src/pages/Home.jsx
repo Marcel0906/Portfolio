@@ -3,27 +3,27 @@ import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
 import { Link } from "react-router-dom";
 import "./Home.css";
 
-
 const Home = () => {
   return (
-    <div>
+    <div className="Home">
       <br></br>
-      <h1>Hallo, ich bin Marcel Kubetin</h1>{" "}
-      <p>DCI Student zum Full Stack Web Developer aus Bielefeld.  <Link to="/contact">
+      <h1>Hallo, ich bin Marcel Kubetin</h1>
+      <p>
+        DCI Student zum Full Stack Web Developer aus Bielefeld.
+        <Link to="/contact">
           <button className="btn">Contact me</button>
         </Link>
-        <div className="icon-list">
+      </p>
+      <div className="icon-list">
         <div className="icon1">
-          <FontAwesomeIcon icon={faLinkedin} />
+        <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank">
+          <FontAwesomeIcon icon={faLinkedin} /></a> 
         </div>
         <div className="icon2">
-          <FontAwesomeIcon icon={faGithub} />
+        <a href="https://github.com/Marcel0906" target="_blank">
+          <FontAwesomeIcon icon={faGithub} /></a> 
         </div>
       </div>
-        </p>
-      
-      
-      
     </div>
   );
 };
