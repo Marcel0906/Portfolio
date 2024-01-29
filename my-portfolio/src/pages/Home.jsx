@@ -1,7 +1,6 @@
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faLinkedin, faGithub } from "@fortawesome/free-brands-svg-icons";
 import { Link } from "react-router-dom";
-import "./Home.css";
 
 const Home = () => {
   return (
@@ -16,12 +15,17 @@ const Home = () => {
       </p>
       <div className="icon-list">
         <div className="icon1">
-        <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank">
-          <FontAwesomeIcon icon={faLinkedin} /></a> 
+          <a
+            href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"
+            target="_blank"
+          >
+            <FontAwesomeIcon icon={faLinkedin} />
+          </a>
         </div>
         <div className="icon2">
-        <a href="https://github.com/Marcel0906" target="_blank">
-          <FontAwesomeIcon icon={faGithub} /></a> 
+          <a href="https://github.com/Marcel0906" target="_blank">
+            <FontAwesomeIcon icon={faGithub} />
+          </a>
         </div>
       </div>
     </div>
@@ -29,5 +33,3 @@ const Home = () => {
 };
 
 export default Home;
-
-// {/* <a href="/">Go to home</a> */} old version

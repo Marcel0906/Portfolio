@@ -14,6 +14,7 @@ const About = () => {
     <div className="about-page">
       <br></br>
       <h1>About me</h1>
+      <p>Hi there</p>
       <div className="text-zone">
         <div className="stage-cube-cont">
           <div className="cubespinner">
