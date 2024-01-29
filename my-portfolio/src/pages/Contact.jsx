@@ -4,7 +4,7 @@ import {faLinkedin, faGithub, faWhatsapp, faSkype, faSlack} from '@fortawesome/f
 
 const Contact = () => {
   return (
-    <div><h1>Contact</h1>
+    <div><br></br><h1>Contact</h1>
     <div className='icon-list'>
         <div className='icon1'>
         <FontAwesomeIcon icon={faLinkedin} />

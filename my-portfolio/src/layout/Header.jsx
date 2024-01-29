@@ -1,8 +1,9 @@
-import Navigation from "./Navigation.jsx"
+import Navigation from "../components/Navigation.jsx"
 
 const Header = () => {
   return (
     <div>
+      
 <Navigation />
     
     </div>

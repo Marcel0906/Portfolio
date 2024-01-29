@@ -1,13 +1,16 @@
 import { NavLink } from "react-router-dom";
+// import {Outlet} from "react-router-dom";
+// import Header from "./Header";
+// import Footer from "./Footer";
+
 import "./Navigation.css";
 const Navigation = () => {
   const items = [
     { name: "Home", to: "/", id: 1 },
-    { name: "About Us", to: "/about-us", id: 2 },
-    { name: "Projects", to: "/projects", id: 3},
-    {name: "Resume", to: "/resume", id: 4},
-    { name: "Contact", to: "/contact", id: 5},
-
+    { name: "About", to: "/about", id: 2 },
+    { name: "Projects", to: "/projects", id: 3 },
+    { name: "Resume", to: "/resume", id: 4 },
+    { name: "Contact", to: "/contact", id: 5 },
   ];
   return (
     <nav className="container">
@@ -15,10 +18,7 @@ const Navigation = () => {
         {items.map((item) => {
           return (
             <li key={item.id}>
-              <NavLink>
-                
-                {item.name}
-              </NavLink>
+              <NavLink to={item.to}>{item.name}</NavLink>
             </li>
           );
         })}

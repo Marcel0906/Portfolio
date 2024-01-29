@@ -1,25 +1,28 @@
 .container {
-    background-color: #7277d1;
-    padding: 10px;
-  }
-  
-  ul {
-    list-style: none;
-    padding: 0;
-    margin: 0;
-    display: flex;
-    justify-content: center;
-  }
-  
-  li {
-    margin: 0 20px;
-   
-  } 
+  background-color: #7277d1;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+}
 
-  a {
-    text-decoration: none;
-    color: #fff;
-    font-weight: bold;
-  }
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+}
 
+li {
+  margin: 0 20px;
+}
 
+a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+}
+
+a:hover {
+  color: #000;
+}

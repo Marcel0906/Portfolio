@@ -7,3 +7,16 @@ body {
     background: #a49589 url(assets/eiche.jpg) no-repeat center top fixed; 
 }
 
+.btn {
+    background-color: #7277d1;
+   cursor: pointer;
+}
+
+.icon-list {
+    text-align:center;
+}
+
+.Footer {
+    text-align: center;
+}
+

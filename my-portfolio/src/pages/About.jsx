@@ -1,43 +1,45 @@
-import "./About.css"
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import {faCss3, faGitAlt, faHtml5, faJsSquare, faNodeJs, faReact} from '@fortawesome/free-brands-svg-icons';
-
-
+import "./About.css";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faCss3,
+  faGitAlt,
+  faHtml5,
+  faJsSquare,
+  faNodeJs,
+  faReact,
+} from "@fortawesome/free-brands-svg-icons";
 
 const About = () => {
   return (
-    
-    <div className='about-page'>
-        <div className='text-zone'>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Rem at facilis iste natus incidunt dignissimos sequi aliquid tempore fugiat aut nam aspernatur consectetur, numquam ipsam explicabo recusandae sapiente ab id accusamus animi quas similique in nesciunt magnam. Quam facere, ullam hic eligendi aperiam rerum, enim quo facilis debitis esse atque dolore perferendis ducimus, porro blanditiis. Qui dicta numquam cum veniam nihil nulla iste deserunt sint asperiores, dignissimos nisi id facere necessitatibus hic rerum, reiciendis earum illum doloremque atque! Quibusdam dignissimos dicta aliquam vero fuga veniam quos nisi rem aut natus saepe nam, recusandae unde illum voluptatum tenetur eius quis hic obcaecati. Reiciendis error omnis quas sit rem autem, quibusdam molestias, soluta animi ab assumenda sint consequatur? Qui veniam illum earum, nobis dolores voluptas laboriosam cupiditate nostrum expedita, aliquid a consectetur. Voluptatem blanditiis tempore ducimus voluptatibus quasi, sit natus, odio iusto vel cupiditate incidunt, consequuntur assumenda rerum dolorum accusamus ratione provident aspernatur! Pariatur illum recusandae nisi error neque quaerat nostrum possimus corporis quos sequi natus dolorem similique iste eum mollitia placeat, maxime repellendus voluptas ratione consectetur dignissimos cumque. Nostrum quam porro harum saepe? Modi maxime explicabo ea unde? Voluptates sint eveniet, distinctio minima, aperiam porro eligendi sunt pariatur iure exercitationem maxime ex vitae provident! Sequi totam nemo impedit neque blanditiis consequuntur minima quibusdam pariatur eaque nesciunt, sunt nam. Quasi esse possimus minus autem voluptatem voluptatibus obcaecati eveniet excepturi hic porro quidem explicabo harum sunt, sed nisi aperiam numquam corporis est aliquam ad deserunt totam nostrum dolores! Quidem porro minus fugiat autem officiis numquam commodi harum, accusamus iusto dignissimos natus inventore eius, ut voluptates cumque ducimus eligendi nobis! Quo ab voluptas odio facere cum explicabo architecto nam ad minus dolor. Ex ad tempore, obcaecati perspiciatis doloribus magnam assumenda, sequi natus consectetur rem quis, inventore ullam praesentium a itaque sapiente. Aut, unde rerum ad animi laboriosam ex cupiditate placeat, dolor beatae assumenda, suscipit voluptates eveniet possimus. Enim explicabo dolorum dignissimos fugiat sint quis exercitationem laboriosam possimus dicta, fuga aspernatur laudantium pariatur ab eligendi. Nobis adipisci libero dolor iure quidem dolore cumque quas nostrum optio, similique natus excepturi iusto accusantium assumenda facilis velit! Eos asperiores minus unde! Tempora, exercitationem nihil. Molestias odit, deleniti reprehenderit a rem soluta tenetur? Aut quis quae tempora quia nisi obcaecati itaque necessitatibus! Excepturi eum inventore quae eligendi hic quo nisi officia totam cumque odit perspiciatis recusandae nulla accusamus, ab velit iusto maxime facere corrupti dignissimos cum enim? Corrupti voluptates quae provident laudantium explicabo! Veniam dolorem laudantium ratione voluptate at? Doloribus, vero nemo, eum tempore beatae tenetur voluptates a eius dolor laboriosam quis ea minus adipisci? Quisquam tempora iste ullam nisi accusamus nam nulla, earum cupiditate, laborum pariatur delectus exercitationem quas soluta quia non maiores deleniti voluptatibus asperiores impedit, sint recusandae repudiandae? Adipisci ea doloremque quasi voluptates nihil numquam, voluptas harum cum nemo dicta odit eligendi quia laboriosam dolor accusamus consectetur cumque possimus porro explicabo aspernatur! Inventore voluptate possimus iure alias doloribus sequi, praesentium perspiciatis odit quo, deserunt minima quasi, quae animi molestias nesciunt! Quaerat, eveniet, ab rem accusantium earum corporis delectus ex eius molestias dolorum totam porro itaque ullam voluptatum hic dicta. Laboriosam assumenda laudantium minus quod? Saepe eaque dolore ab corrupti doloremque voluptates provident impedit quae a atque, voluptas, tempore molestiae quaerat aliquam vitae ea, qui odit unde repellat dolorum quam? Quod adipisci deserunt excepturi blanditiis natus quasi, numquam doloremque? Accusantium ex et ea unde sed esse recusandae tempore dicta. Explicabo sint minima quaerat repellendus mollitia cum magni, ad quis, quibusdam magnam ipsum soluta temporibus pariatur aliquam dolore veniam quia odit fugit sunt! Totam eligendi praesentium corrupti tempora obcaecati nesciunt cum quisquam, quaerat nemo architecto reiciendis necessitatibus nisi ipsa, voluptatum ea natus, nobis reprehenderit a optio alias numquam qui excepturi recusandae? Facilis, enim officiis! Aliquam voluptatibus beatae eaque velit. Aspernatur distinctio, a culpa aperiam, esse recusandae amet repellendus, doloribus excepturi perferendis neque eos? Beatae, explicabo itaque. Hic cum amet sequi in placeat voluptatum maxime? Necessitatibus debitis, rerum aut incidunt reprehenderit tenetur dignissimos quia totam ratione numquam odit ut provident animi a assumenda cumque facilis? Magnam eaque ea repudiandae quam, quod culpa magni ipsa mollitia delectus temporibus sunt porro ab, voluptatem expedita accusantium autem inventore tenetur error fugit ullam? Accusantium excepturi amet molestias quidem voluptas, rerum aliquam distinctio quo totam quia perferendis veritatis tenetur ex repellendus quod provident sunt adipisci. Dolor maiores cupiditate voluptatibus, architecto sunt accusantium quas minus nisi assumenda quam minima dolorem incidunt iusto, adipisci commodi vitae deserunt voluptates fugit voluptas. Aliquid reprehenderit magni dicta suscipit quod vero modi minus nesciunt neque dolorum ut, veniam cupiditate obcaecati odio voluptas hic voluptatibus earum fugit et excepturi? Maxime ab, similique modi, dicta, quae repellendus soluta eligendi tempore reprehenderit nihil pariatur nam nulla numquam ipsam corporis eius illum impedit eveniet voluptas recusandae. Beatae illo rerum id voluptate laudantium doloremque? Cupiditate, ullam. Doloremque corporis et ab incidunt! Minima, numquam. Molestiae, magni. Quos fugit, eligendi officiis eos repellendus, ullam, deserunt alias est molestiae consequatur laboriosam? Dolorem vero a quibusdam deleniti maxime. Quae nihil rem dignissimos, voluptas odit officiis voluptatem minus et accusamus sapiente. Repudiandae deleniti neque officiis nostrum. Earum vel a illo quae numquam distinctio similique, dolores ab. Sapiente autem mollitia, architecto quas distinctio, quaerat delectus odio quidem itaque saepe ipsam magnam perspiciatis necessitatibus adipisci ex corrupti hic vel voluptate! Fugiat nobis aliquam ducimus illo architecto officiis ad quibusdam illum, omnis provident magnam quod dolor vero delectus blanditiis itaque velit amet? Sunt expedita eveniet iste culpa temporibus modi sapiente tempora earum recusandae officia vero, ad autem voluptatum, consectetur at ipsum necessitatibus sit voluptates sint omnis minima. Repellat cumque ex a, atque odio, saepe voluptates at, placeat optio mollitia voluptas facilis laboriosam? Saepe adipisci voluptatum placeat. Repellendus harum velit, officia voluptatem expedita quia cumque corrupti obcaecati, quaerat ullam, doloremque accusamus. Ipsam eos accusamus ut quod sed similique debitis harum ipsa voluptas voluptate dolore iste vel in, aperiam incidunt delectus officia ad ex dolorem rem tempore quaerat? Molestiae, natus? Exercitationem, asperiores. Rem recusandae ut et dolor saepe veniam magni sunt fugit, sit corrupti modi debitis iste inventore enim. Delectus, expedita ut? Assumenda, doloremque accusantium?
-        </p>                       
-            <div className='stage-cube-cont'>
-                <div className='cubespinner'>
-                    <div className='face1'>
-                    <FontAwesomeIcon icon={faNodeJs} color="#46b34c" />
-                </div>
-                 <div className='face2'>
-                 <FontAwesomeIcon icon={faHtml5} color="#F06529" />
-                </div>
-                <div className='face3'>
-                <FontAwesomeIcon icon={faCss3} color="#28A4D9" />
-                </div>
-                <div className='face4'>
-                <FontAwesomeIcon icon={faReact} color="#5ED4F4" />
-                </div>
-                <div className='face5'>
-                <FontAwesomeIcon icon={faJsSquare} color="#EFD81D" />
-                </div>
-                <div className='face6'>
-                <FontAwesomeIcon icon={faGitAlt} color="#EC4D28" />
-                </div> 
-                
+    <div className="about-page">
+      <br></br>
+      <h1>About me</h1>
+      <div className="text-zone">
+        <div className="stage-cube-cont">
+          <div className="cubespinner">
+            <div className="face1">
+              <FontAwesomeIcon icon={faNodeJs} color="#46b34c" />
             </div>
+            <div className="face2">
+              <FontAwesomeIcon icon={faHtml5} color="#F06529" />
+            </div>
+            <div className="face3">
+              <FontAwesomeIcon icon={faCss3} color="#28A4D9" />
+            </div>
+            <div className="face4">
+              <FontAwesomeIcon icon={faReact} color="#5ED4F4" />
+            </div>
+            <div className="face5">
+              <FontAwesomeIcon icon={faJsSquare} color="#EFD81D" />
+            </div>
+            <div className="face6">
+              <FontAwesomeIcon icon={faGitAlt} color="#EC4D28" />
+            </div>
+          </div>
         </div>
-        </div>
+      </div>
     </div>
-  )
-}
+  );
+};
 
-export default About 
-
+export default About;
