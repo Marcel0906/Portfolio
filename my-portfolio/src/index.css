@@ -44,7 +44,7 @@ p {
   font-size: 25px;
 }
 
-.phone:hover {
+/* .phone:hover {
   cursor: pointer;
   position: relative;
 }
@@ -58,7 +58,7 @@ p {
   position: absolute;
   text-decoration: none;
   color: #000;
-}
+} */
 
 .Home span {
     text-decoration:underline;

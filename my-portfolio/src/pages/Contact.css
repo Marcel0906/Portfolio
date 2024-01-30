@@ -24,7 +24,7 @@
     position: relative;
 }
 
-#name, #email, #subject, #message{
+#user_name, #user_email, #user_subject, #message{
     width: 100%;
     border: 0;
     background-color: #53c5d3;
