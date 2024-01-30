@@ -9,8 +9,8 @@ const Navigation = () => {
   const items = [
     { name: "Home", to: "/", id: 1 },
     { name: "About", to: "/about", id: 2 },
-    { name: "Projects", to: "/projects", id: 3 },
-    { name: "Resume", to: "/resume", id: 4 },
+    { name: "Resume", to: "/resume", id: 3 },
+    { name: "Projects", to: "/projects", id: 4 },
     { name: "Contact", to: "/contact", id: 5 },
   ];
   return (
