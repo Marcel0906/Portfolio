@@ -10,5 +10,5 @@
 
 ## Open Tasks
 
-`Home picture, About-text, Projects, Resume and contact email js backend.`
+`Home picture, About-text, Projects, Resume.`
 
