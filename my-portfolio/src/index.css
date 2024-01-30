@@ -1,37 +1,73 @@
 body {
-    background-image: url(assets/eiche.jpg);
-    background-repeat: no-repeat;
-    background-color: #a49589;
-    background-size: cover;
-    background-position: center;
-    background: #a49589 url(assets/eiche.jpg) no-repeat center top fixed; 
+  background-image: url(assets/eiche.jpg);
+  background-repeat: no-repeat;
+  background-color: #a49589;
+  background-size: cover;
+  background-position: center;
+  background: #a49589 url(assets/eiche.jpg) no-repeat center top fixed;
 }
 
-.btn {
-    background-color: #7277d1;
-    color: #fff;
-    border: none;
+h1 {
+    text-align: center;
+    
+}
+
+p {
     font-size: 20px;
-   cursor: pointer;
+    font-weight: bold;
+   color: #384730;
+   /* color: #fff; */
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+
+
+
+.btn {
+  background-color: #7277d1;
+  color: #fff;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
 }
 
 .btn:hover {
-    color: #000;
+  color: #000;
 }
 
 .icon-list {
-   display: flex;
-   justify-content: center;
-   gap: 10px;
-   flex-direction: row;
-    font-size: 20px;
- 
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  flex-direction: row;
+  font-size: 25px;
+}
+
+.phone:hover {
+  cursor: pointer;
+  position: relative;
+}
+.phone span {
+  display: none;
+}
+.phone:hover span {
+  display: flex;
+  bottom: 30px;
+  width: 10px;
+  position: absolute;
+  text-decoration: none;
+  color: #000;
+}
+
+.Home span {
+    text-decoration:underline;
+    color: #000;
 }
 
 .Footer {
-    text-align: center;
-    background-color: #7277d1;
-    padding: 10px;
-    color: #fff;
+  text-align: center;
+  background-color: #7277d1;
+  padding: 10px;
+  color: #fff;
 }
-

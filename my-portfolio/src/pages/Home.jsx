@@ -8,7 +8,7 @@ const Home = () => {
       <br></br>
       <h1>Hallo, ich bin Marcel Kubetin</h1>
       <p>
-        DCI Student zum Full Stack Web Developer aus Bielefeld.
+        DCI Student zum <span>Full Stack Web Developer</span> aus Bielefeld.
         <Link to="/contact">
           <button className="btn">Contact me</button>
         </Link>
@@ -17,13 +17,13 @@ const Home = () => {
         <div className="icon1">
           <a
             href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit"
-            target="_blank"
+            target="_blank" rel="noreferrer"
           >
             <FontAwesomeIcon icon={faLinkedin} />
           </a>
         </div>
         <div className="icon2">
-          <a href="https://github.com/Marcel0906" target="_blank">
+          <a href="https://github.com/Marcel0906" target="_blank" rel="noreferrer">
             <FontAwesomeIcon icon={faGithub} />
           </a>
         </div>
