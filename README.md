@@ -6,9 +6,9 @@
 
 ## Finished Tasks
 
-`Header, Footer, Homepage, Contact`
+`Header, Footer, Homepage, Contact, Projects`
 
 ## Open Tasks
 
-`Home picture, About-text, Projects, Resume.`
+`Home picture, About-text, Resume complete, animations, font-family.`
 
