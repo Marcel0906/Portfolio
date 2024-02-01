@@ -12,12 +12,7 @@ h1 {
     
 }
 
-h2 {
-    text-align: center;
-    
-}
-
- p {
+ .Home p {
     font-size: 20px;
     font-weight: bold;
    color: #384730;
@@ -27,6 +22,15 @@ h2 {
     margin-bottom: 15px;
 }
 
+p {
+  font-size: 20px;
+  font-weight: bold;
+   color: #384730;
+}
+
+.my-image {
+  text-align: center;
+}
 
 
 .btn {
@@ -47,6 +51,10 @@ h2 {
   gap: 10px;
   flex-direction: row;
   font-size: 25px;
+}
+
+.resume-table {
+  width: 100%;
 }
 
 /* .phone:hover {

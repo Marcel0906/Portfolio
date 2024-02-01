@@ -13,9 +13,7 @@ const Home = () => {
           <button className="btn">Contact me</button>
         </Link>
       </p>
-      {/* <div class="image">
-     <img src={require('../assets/me-1.jpg')} alt=""/>
-     </div> */}
+   
       <div className="icon-list">
         <div className="icon1">
           <a
@@ -31,6 +29,9 @@ const Home = () => {
           </a>
         </div>
       </div>
+          <div class="my-image">
+     <img src={require('../assets/me-small.JPG')} alt=""/>
+     </div> 
     </div>
   );
 };

@@ -1,10 +1,54 @@
-
-
 const Resume = () => {
   return (
-    <div><br></br><h1>Resume</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Exercitationem, nulla. Aliquid, tempore eligendi doloribus maiores placeat minus! Iusto omnis eaque tempora perspiciatis optio officiis dolore reprehenderit repudiandae repellat minima minus, voluptates quae nostrum nam! Tempore et at aperiam sint porro a architecto, consectetur fugiat dicta modi error, expedita pariatur vero hic. Iure delectus facere, ipsam non sit consequuntur architecto enim esse illum necessitatibus ut perspiciatis corrupti, labore quidem. Perspiciatis natus et magni error nihil rem odio. Ut at non quia exercitationem, explicabo labore voluptas dicta sequi obcaecati repudiandae a tempore sed maxime consequatur sapiente aperiam facilis? Laborum, ipsam, incidunt tempore aliquam magni deleniti perferendis voluptas blanditiis molestiae aspernatur, sapiente optio nobis. Eos, est sequi consectetur impedit iure quae error neque expedita harum explicabo temporibus illo sint a nam corporis dolores? Nostrum adipisci unde excepturi facilis, dolorem dignissimos earum doloribus itaque quia laudantium nisi eveniet quis fuga, dicta dolor sint? Doloremque commodi, ullam corporis nemo quia cupiditate inventore odio praesentium dolores tenetur dolorum dolore? Consectetur quae adipisci explicabo, minus perspiciatis, dignissimos sequi debitis magni unde aperiam, iusto quibusdam facilis possimus provident? Placeat minima adipisci, aliquam iure atque sapiente amet. Veritatis aspernatur neque laboriosam fugiat minima ipsum corrupti ad ducimus. Laborum commodi aut eum. Accusantium facere at eaque natus, magnam quidem accusamus distinctio voluptatum asperiores excepturi similique laudantium quisquam inventore cumque enim, fugiat provident tenetur odio esse cupiditate vero. Non odit voluptate et cum nisi laborum, omnis qui porro quia placeat modi earum exercitationem dolorum in distinctio eos, voluptates obcaecati aliquam asperiores minus? Labore molestiae neque soluta vel quos eaque, ratione corporis itaque esse quae at exercitationem iusto quia! Ab deleniti dignissimos omnis aliquam blanditiis placeat vero, accusantium sit minima. Eum ex repellendus, asperiores ullam cum consequatur iure suscipit id quisquam dicta perspiciatis similique officia molestias, possimus debitis aliquid cupiditate fugit distinctio blanditiis? Mollitia perferendis, tempore minus modi facere eius omnis officiis est deserunt excepturi hic soluta consequuntur nesciunt obcaecati magni maiores beatae delectus voluptatibus ipsam? Illo officia, odit ullam laudantium repellendus ut placeat earum alias, tempore quisquam quasi eum accusantium perspiciatis saepe, perferendis commodi animi iusto minus distinctio corporis? Vel dicta voluptates obcaecati corporis cum molestias vitae asperiores iure. Facere ab voluptates doloribus placeat sapiente architecto dolor, neque ad cumque quod ullam velit repellat optio omnis sit nihil! Dolorem doloremque esse fuga saepe officiis atque molestias voluptate, voluptatibus dolores deserunt iste cum modi sed eaque error itaque pariatur magni illum dolore! Maxime voluptate nesciunt deserunt voluptatibus neque. Dolor perferendis, omnis at deleniti nostrum inventore suscipit debitis dolorem deserunt quia quae. Praesentium itaque hic deserunt quis reprehenderit vel, quidem sequi saepe velit, nobis cum commodi architecto? Iusto nobis illo facilis vitae cupiditate, omnis dolores saepe sed at quia? Voluptatum, veritatis ullam. Quasi, possimus magnam cum quis rerum quibusdam quae debitis accusamus, autem aliquid facere? Praesentium, corporis incidunt optio fugit suscipit ullam recusandae laudantium aperiam voluptatibus, pariatur illum tempore veritatis neque, dignissimos atque excepturi soluta nostrum. Neque quas reiciendis laborum libero. Ea tempora eligendi cupiditate alias iure. Fuga voluptate qui quibusdam, explicabo placeat enim odio ratione animi sunt quae. Deserunt mollitia voluptates ipsam neque ex. Minus, libero eius atque omnis tenetur officiis nobis fugiat deserunt, cupiditate recusandae nisi autem. Eaque esse earum rerum ex non illum quasi maxime amet, sapiente laborum unde, deleniti distinctio quaerat quos, mollitia et blanditiis ad reprehenderit debitis nam velit veniam quod! Quo voluptas fugit aut deleniti sapiente quasi delectus dicta architecto at minima ea nam, similique tempora quod iure culpa. Quo aperiam modi doloribus officiis reiciendis similique praesentium enim vero delectus. Quis ullam neque ad ex voluptate reprehenderit adipisci, repellat accusamus, nisi harum deleniti veniam nostrum in minima recusandae officiis aliquid. Nobis accusamus sed temporibus assumenda recusandae, delectus nulla repudiandae pariatur cum, reprehenderit impedit repellendus nam illo officia eligendi, dolorum nihil provident molestias earum? Voluptatum, impedit quis non voluptas, error repudiandae labore itaque vitae esse perferendis modi quibusdam amet alias voluptatem ut placeat similique ipsa nam obcaecati? Id earum, ab maxime perspiciatis ad excepturi praesentium quis fuga quo eos et expedita, velit ea in cumque placeat iure aperiam ratione maiores possimus animi qui veniam incidunt. Libero delectus hic suscipit voluptas, accusantium tenetur dignissimos dolores, eum laudantium voluptates, iure corporis numquam nostrum soluta officiis nobis. Quisquam perspiciatis corrupti nisi omnis officia, accusamus, voluptates sunt dolorem at excepturi sint. Dolor distinctio dignissimos, aliquam id adipisci at veritatis quae deleniti pariatur! Harum libero aperiam, ratione ipsum officiis illum necessitatibus commodi sunt ducimus corporis numquam ipsam facilis adipisci rerum iste distinctio quo nisi, amet a error rem. Tenetur impedit, dolorum rem voluptatem, delectus hic, laudantium quod perferendis velit officia nobis nulla ipsa fugiat minima voluptatibus ad quaerat iure sapiente consectetur harum alias saepe amet nihil. Hic sapiente temporibus soluta repudiandae eaque eveniet asperiores, modi excepturi aliquam reprehenderit, fuga porro laborum? Asperiores saepe molestias hic esse earum, minus commodi temporibus delectus at. Eius, in vero accusamus ea recusandae rem. Sit aliquam in quaerat provident temporibus, architecto tenetur aspernatur ad, quo rem facilis beatae maiores ipsa fugit voluptas quidem aperiam eligendi nobis excepturi exercitationem illum officiis. Alias modi voluptates maiores ex non laborum soluta ipsa facere facilis incidunt est, sapiente autem quaerat. Nobis quasi delectus officiis sed laborum enim dignissimos fuga minus ad, cupiditate optio quidem magnam laudantium quia ducimus incidunt. Amet, aperiam cum. Quo quasi, suscipit doloremque illo voluptatem pariatur labore exercitationem assumenda est laudantium dicta perferendis officiis itaque aliquam perspiciatis nobis harum rerum distinctio porro velit sapiente? Dolorum quaerat quas eius eos, non molestiae, iure ad necessitatibus quod ab sint tempora quisquam commodi aut alias eveniet asperiores ex earum totam, cum expedita ea nostrum nemo. Officia explicabo nam provident voluptatibus culpa natus alias et repudiandae eos, odio deserunt rerum nesciunt perferendis! Labore sed eius ut sit ea, omnis voluptatem nihil adipisci, enim eveniet voluptate perspiciatis suscipit error esse modi quidem veritatis minus debitis voluptates unde ad sapiente dolorum eaque? Minima delectus nihil quibusdam ipsa hic dicta fugit provident eligendi quasi officia placeat, deserunt sequi dolores corrupti consectetur sed, vero atque? Amet unde neque totam voluptatum id accusamus necessitatibus corporis est nulla sunt!</p></div>
-  )
+    <div className='Resume'><br></br><h1>Lebenslauf</h1>
+    <table className="resume-table">
+    <thead>
+      <tr>
+        <th scope="col">Erfahrung</th>
+        <th scope="col">Schulbildung</th>
+        <th scope="col">Skills</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Alfreds Futterkiste</td>
+        <td>Maria Anders</td>
+        <td rowspan="1" align="right" valign="bottom">45</td>
+      </tr>
+      <tr>
+        <td>Centro comercial Moctezuma</td>
+        <td>Francisco Chang</td>
+        <td rowspan="1" align="right" valign="bottom">45</td>
+      </tr>
+      <tr>
+        <td>Ernst Handel</td>
+        <td>Roland Mendel</td>
+        <td rowspan="1" align="right" valign="bottom">45</td>
+      </tr>
+      <tr>
+        <td>Island Trading</td>
+        <td>Helen Bennett</td>
+        <td rowspan="1" align="right" valign="bottom">45</td>
+      </tr>
+      <tr>
+        <td>Laughing Bacchus Winecellars</td>
+        <td>Yoshi Tannamuri</td>
+        <td rowspan="1" align="right" valign="bottom">45</td>
+      </tr>
+      <tr>
+        <td>Magazzini Alimentari Riuniti</td>
+        <td>Giovanni Rovelli</td>
+        <td rowspan="1" align="right" valign="bottom">45</td>
+      </tr>
+      <tr>
+        <td>Total</td>
+        <td></td>
+        <td rowspan="1" align="right" valign="bottom">210</td>
+      </tr>
+    </tbody>
+  </table>
+  </div>
+  );
 }
 
-export default Resume
+export default Resume 
