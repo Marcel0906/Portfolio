@@ -10,5 +10,5 @@
 
 ## Open Tasks
 
-`Home picture, About-text, Resume complete, animations, font-family.`
+` About-text, Resume Table update, animations, font-family.`
 
