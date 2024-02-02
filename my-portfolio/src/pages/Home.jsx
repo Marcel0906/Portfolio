@@ -29,7 +29,7 @@ const Home = () => {
           </a>
         </div>
       </div>
-          <div class="my-image">
+          <div className="my-image">
      <img src={require('../assets/me-small.JPG')} alt=""/>
      </div> 
     </div>

@@ -13,37 +13,37 @@ const Resume = () => {
       <tr>
         <td>Alfreds Futterkiste</td>
         <td>Maria Anders</td>
-        <td rowspan="1" align="right" valign="bottom">45</td>
+        <td rowSpan="1" align="right" valign="bottom">45</td>
       </tr>
       <tr>
         <td>Centro comercial Moctezuma</td>
         <td>Francisco Chang</td>
-        <td rowspan="1" align="right" valign="bottom">45</td>
+        <td rowSpan="1" align="right" valign="bottom">45</td>
       </tr>
       <tr>
         <td>Ernst Handel</td>
         <td>Roland Mendel</td>
-        <td rowspan="1" align="right" valign="bottom">45</td>
+        <td rowSpan="1" align="right" valign="bottom">45</td>
       </tr>
       <tr>
         <td>Island Trading</td>
         <td>Helen Bennett</td>
-        <td rowspan="1" align="right" valign="bottom">45</td>
+        <td rowSpan="1" align="right" valign="bottom">45</td>
       </tr>
       <tr>
         <td>Laughing Bacchus Winecellars</td>
         <td>Yoshi Tannamuri</td>
-        <td rowspan="1" align="right" valign="bottom">45</td>
+        <td rowSpan="1" align="right" valign="bottom">45</td>
       </tr>
       <tr>
         <td>Magazzini Alimentari Riuniti</td>
         <td>Giovanni Rovelli</td>
-        <td rowspan="1" align="right" valign="bottom">45</td>
+        <td rowSpan="1" align="right" valign="bottom">45</td>
       </tr>
       <tr>
         <td>Total</td>
         <td></td>
-        <td rowspan="1" align="right" valign="bottom">210</td>
+        <td rowSpan="1" align="right" valign="bottom">210</td>
       </tr>
     </tbody>
   </table>
