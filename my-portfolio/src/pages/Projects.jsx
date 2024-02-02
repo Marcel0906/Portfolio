@@ -35,10 +35,10 @@ const Projects = () => {
     },
   ];
   return (
-    <div>
+    <div className='Projects'>
       <br></br> <h1>Einige ausgewählte Projekte</h1>
       <section>
-        
+      <div className="projects-container">
         <ul>
           
           {projects.map((project) => (
@@ -54,7 +54,9 @@ const Projects = () => {
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias vel quos asperiores fuga explicabo, quas, maxime quisquam aliquam provident tenetur nulla tempore deleniti laboriosam repellendus temporibus eius odio quaerat, placeat molestiae accusantium quae dicta? Animi, fugiat dolore? Velit impedit unde animi nihil veniam iste id harum adipisci nulla, exercitationem suscipit optio autem consequuntur neque iusto placeat alias maxime mollitia. Ratione fugit pariatur aliquam laudantium at inventore optio hic exercitationem accusamus debitis unde, quidem asperiores dolorum animi minus eligendi mollitia ut alias recusandae? Fugit debitis vitae rerum sapiente quidem nulla dicta, rem illo saepe aut beatae quod nostrum! Assumenda, odit deserunt.
 
         </p>
+        </div>
       </section>
+      
     </div>
     
   );
