@@ -29,9 +29,11 @@ const Home = () => {
           </a>
         </div>
       </div>
+      <br></br>
           <div className="my-image">
      <img src={require('../assets/me-small.JPG')} alt=""/>
      </div> 
+    
     </div>
   );
 };
