@@ -51,9 +51,8 @@ const Projects = () => {
             </li>
           ))}
         </ul>
-        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Alias vel quos asperiores fuga explicabo, quas, maxime quisquam aliquam provident tenetur nulla tempore deleniti laboriosam repellendus temporibus eius odio quaerat, placeat molestiae accusantium quae dicta? Animi, fugiat dolore? Velit impedit unde animi nihil veniam iste id harum adipisci nulla, exercitationem suscipit optio autem consequuntur neque iusto placeat alias maxime mollitia. Ratione fugit pariatur aliquam laudantium at inventore optio hic exercitationem accusamus debitis unde, quidem asperiores dolorum animi minus eligendi mollitia ut alias recusandae? Fugit debitis vitae rerum sapiente quidem nulla dicta, rem illo saepe aut beatae quod nostrum! Assumenda, odit deserunt.
-
-        </p>
+        <p>Diese Projekte zeichnen meinen Werdegang als DCI-Student zum Web Developer von der Anfangszeit im Juli 2023 bis jetzt (Stand: Februar 2024) nach. Zukünftige Projekte werden folgen. </p>
+      <br></br>
         </div>
       </section>
       

@@ -38,19 +38,8 @@ const Contact = () => {
       <h1>Kontakt</h1>
       <div className="contact-page">
         <div className="text">
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Cupiditate
-            corporis, ullam facere perspiciatis, est nam minima earum pariatur
-            eaque repellendus incidunt quia fugit porro illo sequi possimus,
-            laborum et? Eius perferendis aliquid officia at dolor consequatur
-            beatae eum maxime consequuntur omnis laborum, eligendi labore ullam
-            sapiente eaque, minus impedit tenetur maiores, neque culpa sequi
-            distinctio? Error porro culpa pariatur, delectus expedita reiciendis
-            nisi facilis eum placeat fugiat dolores debitis quasi ratione eaque
-            itaque nihil! Adipisci officia deserunt sit veritatis ratione!
-            Dignissimos ipsam expedita, delectus officia eius sapiente,
-            voluptate eos laborum officiis exercitationem modi, voluptas est
-            voluptatem porro hic eveniet. Laboriosam.
+        <p>
+            Wenn Sie weitere Fragen zu meiner Person oder zu meiner Arbeit haben, können Sie mich gerne über das Kontaktformular anschreiben. Ich freue mich auf Ihre Nachricht!
           </p>
           <div className="contact-form">
             <form ref={refForm} onSubmit={sendEmail}>
