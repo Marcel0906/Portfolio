@@ -10,5 +10,5 @@
 
 ## Open Tasks
 
-` About-text and Skillsets, Resume Table update, animations, font-family, media queries.`
+` About Skillsets, Resume Table update, animations, font-family, media queries.`
 
