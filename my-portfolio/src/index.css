@@ -61,13 +61,14 @@ h1 {
 
 }
 
+
+
 p {
+  text-align: center;
   font-size: 20px;
   font-weight: bold;
-   color: #384730;
+   color: #000;
 }
-
-
 
 .btn {
   background-color: #7277d1;
@@ -91,6 +92,19 @@ p {
 
 .resume-table {
   width: 100%;
+}
+
+.resume-table th {
+  background-color: #384730;
+  color: #fff;
+  padding: 20px;
+}
+
+.resume-table td {
+  text-align: center;
+  font-size: 20px;
+  font-weight: bold;
+   color: #000;
 }
 
 /* .phone:hover {
@@ -122,5 +136,7 @@ p {
   padding: 10px;
   color: #fff;
 }
+
+
 
 

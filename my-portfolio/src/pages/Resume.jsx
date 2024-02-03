@@ -1,3 +1,4 @@
+import { Link } from "react-router-dom";
 const Resume = () => {
   return (
     <div className='Resume'><br></br><h1>Lebenslauf</h1>
@@ -5,48 +6,52 @@ const Resume = () => {
     <thead>
       <tr>
         <th scope="col">Erfahrung</th>
-        <th scope="col">Schulbildung</th>
+        <th scope="col">Bildung</th>
         <th scope="col">Skills</th>
       </tr>
     </thead>
     <tbody>
       <tr>
-        <td>Alfreds Futterkiste</td>
-        <td>Maria Anders</td>
-        <td rowSpan="1" align="right" valign="bottom">45</td>
-      </tr>
-      <tr>
-        <td>Centro comercial Moctezuma</td>
-        <td>Francisco Chang</td>
-        <td rowSpan="1" align="right" valign="bottom">45</td>
-      </tr>
-      <tr>
-        <td>Ernst Handel</td>
-        <td>Roland Mendel</td>
-        <td rowSpan="1" align="right" valign="bottom">45</td>
-      </tr>
-      <tr>
-        <td>Island Trading</td>
-        <td>Helen Bennett</td>
-        <td rowSpan="1" align="right" valign="bottom">45</td>
-      </tr>
-      <tr>
-        <td>Laughing Bacchus Winecellars</td>
-        <td>Yoshi Tannamuri</td>
-        <td rowSpan="1" align="right" valign="bottom">45</td>
-      </tr>
-      <tr>
-        <td>Magazzini Alimentari Riuniti</td>
-        <td>Giovanni Rovelli</td>
-        <td rowSpan="1" align="right" valign="bottom">45</td>
-      </tr>
-      <tr>
-        <td>Total</td>
+        <td>07/2023 - 09/2024 Full Stack Web Developer bei DCI - Digital Career Institute, Berlin, DE</td>
         <td></td>
-        <td rowSpan="1" align="right" valign="bottom">210</td>
+        <td rowSpan="1" align="right" valign="bottom">HTML5,  CSS3, Javascript, Node.js, React, Vite</td>
       </tr>
+      <br></br>
+      <tr>
+        <td></td>
+        <td>2019 Mekobus Seminar mit dem Website-Projekt "Kosmetik Cel" Abschluss mit Zertifikat</td>
+        <td rowSpan="1" align="right" valign="bottom">Bild-, Audio- und Videobearbeitung. Social Media,Web-Tools, Medien & Recht, Datenschutz & DSGVO</td>
+      </tr>
+      <br></br>
+      <tr>
+        <td></td>
+        <td>10/2011- 09/2019 Kombi-B.A. Abschluss in Politik- und Rechtswissenschaft an der Universität Bielfeld. Als Ergänzung zum B.A. Schwerpunkt Data Science in der Wirtschaftswissenschaft</td>
+        <td rowSpan="1" align="right" valign="bottom">EDV Kurse in Word und Excel. Sprachkurs in Spanisch (B2). Teamprojekte, Hausarbeiten, Bachelorarbeit</td>
+      </tr>
+      <br></br>
+      <tr>
+        <td>02/2019 selbständiges Gewerbe "Import und Export von Kosmetikartikeln"</td>
+        <td></td>
+        <td rowSpan="1" align="right" valign="bottom">Verhandlungen, Verkauf, Buchhaltung und Rechnungswesen</td>
+      </tr>
+      <br></br>
+      <tr>
+        <td></td>
+        <td>06/2010 Allgemeine Hochschulreife am Ceciliengymnasium Bielefeld</td>
+        <td rowSpan="1" align="right" valign="bottom">Klassenarbeiten, Präsentation, Abi-Klausuren, mündliche Prüfung</td>
+      </tr>
+      <br></br>
+      <tr>
+        <td></td>
+        <td></td>
+        <td rowSpan="1" align="right" valign="bottom"></td>
+      </tr>
+      <td></td>
     </tbody>
   </table>
+  <p>Zu allen beschriebenen Skills schicke ich gerne auf Anfrage über das <Link to="/contact">
+          <button className="btn">Kontaktformular</button>
+        </Link> die entsprechenden Zertifikate und sonstigen Dokumente</p>
   </div>
   );
 }
