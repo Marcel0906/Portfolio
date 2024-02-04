@@ -6,9 +6,9 @@
 
 ## Finished Tasks
 
-`Header, Footer, Homepage, Contact, Projects`
+`Header, Footer, Homepage, About, Resume, Contact, Projects`
 
 ## Open Tasks
 
-` About Skillsets, Resume Table update, animations, font-family, media queries.`
+` media queries`
 
