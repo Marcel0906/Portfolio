@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Jura:wght@300&family=Maven+Pro:wght@900&family=Merriweather&family=Pacifico&family=Playball&family=Poppins:ital,wght@1,300&family=Roboto+Condensed:wght@300;400;700&family=Roboto+Mono:ital,wght@1,200;1,700&family=Roboto:ital,wght@0,100;1,400&display=swap');
+
+
 body {
   background-image: url(assets/eiche.jpg);
   background-repeat: no-repeat;
@@ -65,9 +68,10 @@ h1 {
 
 p {
   text-align: center;
-  font-size: 20px;
+  font-family: "Merriweather", serif;
+  font-size: 22px;
   font-weight: bold;
-   color: #000;
+   color: #384730;
 }
 
 .btn {
@@ -102,6 +106,7 @@ p {
 
 .resume-table td {
   text-align: center;
+  font-family: "Merriweather", serif;
   font-size: 20px;
   font-weight: bold;
    color: #000;

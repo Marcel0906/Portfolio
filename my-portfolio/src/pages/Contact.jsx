@@ -38,9 +38,9 @@ const Contact = () => {
       <h1>Kontakt</h1>
       <div className="contact-page">
         <div className="text">
-        <p>
+        <h2>
             Wenn Sie weitere Fragen zu meiner Person oder zu meiner Arbeit haben, können Sie mich gerne über das Kontaktformular anschreiben. Ich freue mich auf Ihre Nachricht!
-          </p>
+          </h2>
           <div className="contact-form">
             <form ref={refForm} onSubmit={sendEmail}>
               <ul>

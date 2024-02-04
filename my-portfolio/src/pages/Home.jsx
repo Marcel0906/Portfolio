@@ -6,9 +6,9 @@ const Home = () => {
   return (
     <div className="Home">
       <br></br>
-      <h1>Hallo, ich bin Marcel Kubetin</h1>
+      <h1>Hallo, ich bin Marcel Kubetin.</h1>
       <p>
-        DCI Student zum <span>Full Stack Web Developer</span> aus Bielefeld.
+        DCI Student zum <span>Full Stack Web Developer aus Bielefeld.</span>
         <Link to="/contact">
           <button className="btn">Contact me</button>
         </Link>

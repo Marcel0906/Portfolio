@@ -14,19 +14,19 @@ const Resume = () => {
       <tr>
         <td>07/2023 - 09/2024 Full Stack Web Developer bei DCI - Digital Career Institute, Berlin, DE</td>
         <td></td>
-        <td rowSpan="1" align="right" valign="bottom">HTML5,  CSS3, Javascript, Node.js, React, Vite</td>
+        <td rowSpan="1" align="right" valign="bottom">HTML5,  CSS3, Javascript, Node.js, React, Vite, Lingoda English B2</td>
       </tr>
       <br></br>
       <tr>
         <td></td>
         <td>2019 Mekobus Seminar mit dem Website-Projekt "Kosmetik Cel" Abschluss mit Zertifikat</td>
-        <td rowSpan="1" align="right" valign="bottom">Bild-, Audio- und Videobearbeitung. Social Media,Web-Tools, Medien & Recht, Datenschutz & DSGVO</td>
+        <td rowSpan="1" align="right" valign="bottom">Bild-, Audio- und Videobearbeitung, Web-Tools, Medien & Recht, Datenschutz & DSGVO</td>
       </tr>
       <br></br>
       <tr>
         <td></td>
-        <td>10/2011- 09/2019 Kombi-B.A. Abschluss in Politik- und Rechtswissenschaft an der Universität Bielfeld. Als Ergänzung zum B.A. Schwerpunkt Data Science in der Wirtschaftswissenschaft</td>
-        <td rowSpan="1" align="right" valign="bottom">EDV Kurse in Word und Excel. Sprachkurs in Spanisch (B2). Teamprojekte, Hausarbeiten, Bachelorarbeit</td>
+        <td>10/2011- 09/2019 Kombi-B.A. Abschluss in Politik- und Rechtswissenschaft an der Universität Bielefeld. Als Ergänzung zum Bachelor of Arts Schwerpunkt Data Science in der Wirtschaftswissenschaft.</td>
+        <td rowSpan="1" align="right" valign="bottom">EDV Kurse in Word und Excel, Sprachkurs in Spanisch (A2), Teamprojekte, Hausarbeiten, Bachelorarbeit</td>
       </tr>
       <br></br>
       <tr>
@@ -38,7 +38,7 @@ const Resume = () => {
       <tr>
         <td></td>
         <td>06/2010 Allgemeine Hochschulreife am Ceciliengymnasium Bielefeld</td>
-        <td rowSpan="1" align="right" valign="bottom">Klassenarbeiten, Präsentation, Abi-Klausuren, mündliche Prüfung</td>
+        <td rowSpan="1" align="right" valign="bottom">Klassenarbeiten, Präsentation, Abitur-Klausuren, mündliche Prüfung</td>
       </tr>
       <br></br>
       <tr>
@@ -49,9 +49,9 @@ const Resume = () => {
       <td></td>
     </tbody>
   </table>
-  <p>Zu allen beschriebenen Skills schicke ich gerne auf Anfrage über das <Link to="/contact">
+  <p>Zu den beschriebenen Skills schicke ich gerne auf Anfrage über das <Link to="/contact">
           <button className="btn">Kontaktformular</button>
-        </Link> die entsprechenden Zertifikate und sonstigen Dokumente</p>
+        </Link> die entsprechenden Zertifikate und sonstigen Dokumente.</p>
   </div>
   );
 }
