@@ -1,13 +1,11 @@
-import Navigation from "../components/Navigation.jsx"
+import Navigation from "../components/Navigation.jsx";
 
 const Header = () => {
   return (
     <div>
-      
-<Navigation />
-    
+      <Navigation />
     </div>
-  )
-}
+  );
+};
 
-export default Header
+export default Header;

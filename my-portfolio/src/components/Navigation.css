@@ -28,3 +28,16 @@ a {
 a:hover {
   color: #000;
 }
+
+@media (max-width: 768px) {
+  ul {
+    flex-direction: column;
+  }
+  li {
+    margin: 2px 0;
+  }
+  tr {
+    display: flex;
+    flex-direction: column;
+  }
+}

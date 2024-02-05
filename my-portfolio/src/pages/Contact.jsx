@@ -38,8 +38,10 @@ const Contact = () => {
       <h1>Kontakt</h1>
       <div className="contact-page">
         <div className="text">
-        <h2>
-            Wenn Sie weitere Fragen zu meiner Person oder zu meiner Arbeit haben, können Sie mich gerne über das Kontaktformular anschreiben. Ich freue mich auf Ihre Nachricht!
+          <h2>
+            Wenn Sie weitere Fragen zu meiner Person oder zu meiner Arbeit
+            haben, können Sie mich gerne über das Kontaktformular anschreiben.
+            Ich freue mich auf Ihre Nachricht!
           </h2>
           <div className="contact-form">
             <form ref={refForm} onSubmit={sendEmail}>
@@ -109,12 +111,14 @@ const Contact = () => {
         </div>
         <div className="phone">
           <div className="icon3">
-            <a href="https://wa.me/4915141277858"
-                target="_blank"
-                rel="noreferrer"
-              >
-            {/* <span>015141277858</span> */}
-            <FontAwesomeIcon icon={faWhatsapp} /></a>
+            <a
+              href="https://wa.me/4915141277858"
+              target="_blank"
+              rel="noreferrer"
+            >
+              {/* <span>015141277858</span> */}
+              <FontAwesomeIcon icon={faWhatsapp} />
+            </a>
           </div>
         </div>
         <div className="icon4">
