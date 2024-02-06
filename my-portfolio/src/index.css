@@ -116,6 +116,7 @@ p {
   position: fixed;
   bottom: 0;
   width: 100%;
+  left: 2px;
   padding: 10px;
   color: #fff;
 }
