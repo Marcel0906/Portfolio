@@ -113,7 +113,9 @@ p {
 .Footer {
   text-align: center;
   background-color: #7277d1;
-  margin-top: 600px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
   padding: 10px;
   color: #fff;
 }
