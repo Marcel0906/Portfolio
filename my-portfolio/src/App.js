@@ -5,11 +5,10 @@ import routes from "./components/Routes";
 import Layout from "./layout/Layout";
 
 // import Home from './pages/Home';
-// import About from './pages/About';
-// import Resume from './pages/Resume';
-// import Projects from './pages/Projects';
-// import Contact from './pages/Contact';
-// import Header from './Layout/Header';
+// import About from "./pages/About.jsx";
+// import Resume from "./pages/Resume.jsx";
+// import Projects from "./pages/Projects.jsx";
+// import Contact from "./pages/Contact.jsx";
 
 function App() {
   return (
@@ -17,8 +16,14 @@ function App() {
       <Routes>
         {routes.map((route) => (
           <Route key={route.id} {...route} />
+          
         ))}
       </Routes>
+      {/* The OnePager method only works on every page
+      <About/>
+      <Resume/>
+      <Projects/>
+      <Contact/> */} 
     </Layout>
     //   <div className="main">
     //     <main className='navigation'>

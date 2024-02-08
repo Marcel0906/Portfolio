@@ -30,14 +30,23 @@ a:hover {
 }
 
 @media (max-width: 768px) {
+
+  .container {
+    background-color: var(--background-color);
+  }
+
   ul {
     flex-direction: column;
+    align-items: flex-start;
   }
+  
   li {
     margin: 2px 0;
   }
+
   tr {
     display: flex;
     flex-direction: column;
   }
+ 
 }
