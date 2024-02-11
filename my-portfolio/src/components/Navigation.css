@@ -50,3 +50,11 @@ a:hover {
   }
  
 }
+
+@media (orientation: portrait) {
+  .container {
+    background-color: var(--background-color);
+  }
+}
+
+

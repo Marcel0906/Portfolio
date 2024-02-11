@@ -33,6 +33,7 @@ const Projects = () => {
       image: budgetImage,
       link: "https://github.com/Marcel0906/different-spa-projects-with-cra",
     },
+    
   ];
   return (
     <div className="Projects">

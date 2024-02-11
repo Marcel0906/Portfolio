@@ -6,7 +6,6 @@ import {
   faGithub,
   faWhatsapp,
   faSkype,
-  faSlack,
 } from "@fortawesome/free-brands-svg-icons";
 import "./Contact.css";
 
@@ -128,15 +127,6 @@ const Contact = () => {
             rel="noreferrer"
           >
             <FontAwesomeIcon icon={faSkype} />
-          </a>
-        </div>
-        <div className="icon5">
-          <a
-            href="https://join.slack.com/t/webdevcel/shared_invite/zt-2b2k4pyee-1eUzqwoDGS8sfwTCgSAh1g"
-            target="_blank"
-            rel="noreferrer"
-          >
-            <FontAwesomeIcon icon={faSlack} />
           </a>
         </div>
       </div>
