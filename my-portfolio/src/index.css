@@ -110,6 +110,12 @@ p {
   color: #000;
 }
 
+.projects-container {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
 .Footer {
   text-align: center;
   background-color: #7277d1;
@@ -120,3 +126,5 @@ p {
   padding: 10px;
   color: #fff;
 }
+
+

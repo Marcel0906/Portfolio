@@ -33,32 +33,32 @@ const Projects = () => {
       image: budgetImage,
       link: "https://github.com/Marcel0906/different-spa-projects-with-cra",
     },
-    
   ];
   return (
     <div className="Projects">
       <br></br> <h1>Projekte</h1>
-      <section>
         <div className="projects-container">
-          <ul>
+          
             {projects.map((project) => (
-              <li key={project.id}>
+              <div className="project-preview"
+              key={project.id}>
                 <img src={project.image} alt={project.title} />
                 <h3>{project.title}</h3> <h4> {project.description}</h4>
                 <a href={project.link} target="_blank" rel="noreferrer">
                   <button className="btn">Zum Projekt</button>
                 </a>
-              </li>
+                </div>
             ))}
-          </ul>
+            
+          </div>
           <p>
             Diese Projekte zeichnen meinen Werdegang als DCI-Student zum Web
             Developer von der Anfangszeit im Juli 2023 bis jetzt (Stand: Februar
             2024) nach. Zukünftige Projekte werden folgen.{" "}
           </p>
           <br></br>
-        </div>
-      </section>
+        
+    
     </div>
   );
 };
