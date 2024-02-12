@@ -115,7 +115,6 @@ const Contact = () => {
               target="_blank"
               rel="noreferrer"
             >
-              {/* <span>015141277858</span> */}
               <FontAwesomeIcon icon={faWhatsapp} />
             </a>
           </div>
