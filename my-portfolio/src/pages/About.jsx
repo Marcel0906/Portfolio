@@ -34,7 +34,7 @@ const About = () => {
           Fertigstellung und Abgabe meiner Hausarbeiten im Studium sowie
           Teamarbeit mit anderen DCI-Studenten in der Weiterbildung zum Web
           Developer kennzeichneten meine Berühungspunkte im agilen
-          Projektmanagement und ersten Erfahrungen in Teamleitungsaufgaben. 
+          Projektmanagement und ersten Erfahrungen in Teamleitungsaufgaben mit Projektpräsentationen. 
         </p>
         <p>
           Meine persönlichen Interessen erstrecken sich über das Wandern in der

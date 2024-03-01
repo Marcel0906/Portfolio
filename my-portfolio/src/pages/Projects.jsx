@@ -2,6 +2,7 @@ import burgerImage from "../assets/burgershot.jpg";
 import deezifyImage from "../assets/deezify.jpg";
 import weatherImage from "../assets/weather-app.jpg";
 import budgetImage from "../assets/budget-tracker.jpg";
+import spiceImage from "../assets/spice.jpg"
 
 const Projects = () => {
   const projects = [
@@ -32,6 +33,13 @@ const Projects = () => {
       description: "Verschiedene Single Page Applications",
       image: budgetImage,
       link: "https://github.com/Marcel0906/different-spa-projects-with-cra",
+    },
+    {
+      id: 5,
+      title: "Spice Shop",
+      description: "Drittes Teamprojekt ist ein an Amazon orientierter Einkaufsshop",
+      image: spiceImage,
+      link: "https://github.com/BulletStormXT/amazon-clone",
     },
   ];
   return (
