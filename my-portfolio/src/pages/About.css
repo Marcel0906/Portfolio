@@ -12,6 +12,10 @@
   text-align: center;
 }
 
+.text-zone .btn {
+text-align: center;
+}
+
 .stage-cube-cont {
   width: 40%;
   height: 100%;

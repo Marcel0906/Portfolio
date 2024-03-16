@@ -9,6 +9,8 @@ import {
   faReact,
 } from "@fortawesome/free-brands-svg-icons";
 
+
+
 const About = () => {
   return (
     <div className="about-page">
@@ -65,6 +67,7 @@ const About = () => {
             </div>
           </div>
         </div>
+      
       </div>
     </div>
   );
