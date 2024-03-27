@@ -42,7 +42,7 @@ const About = () => {
           Meine persönlichen Interessen erstrecken sich über das Wandern in der
           Natur mit Freunden und Familie, Fahrradfahren, campen, joggen,
           schwimmen und bouldern. Diese Interessen dienen meiner
-          gesundheitlichen Balance zur Bildschirmarbeit.{" "}
+          gesundheitlichen Balance zur Bildschirmarbeit. Des Weiteren helfe ich in der Familie bei der Kinder- und Hundebetreuung. 
         </p>
         <div className="stage-cube-cont">
           <h2>Skillset</h2>
