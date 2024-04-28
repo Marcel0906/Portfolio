@@ -3,6 +3,7 @@ import deezifyImage from "../assets/deezify.jpg";
 import weatherImage from "../assets/weather-app.jpg";
 import budgetImage from "../assets/budget-tracker.jpg";
 import spiceImage from "../assets/spice.jpg"
+import bookshelfImage from "../assets/bookshelf.jpg"
 
 const Projects = () => {
   const projects = [
@@ -40,6 +41,13 @@ const Projects = () => {
       description: "Drittes Teamprojekt ist ein an Amazon orientierter Einkaufsshop",
       image: spiceImage,
       link: "https://github.com/BulletStormXT/amazon-clone",
+    },
+    {
+      id: 6,
+      title: "Bookshelf",
+      description: "Erstes Backend Teamprojekt ist ein digitales Bücherregal mit Such-, Lösch- und Filterfunktion", 
+      image: bookshelfImage,
+      link: "https://github.com/Marcel0906/Bookshelf-API",
     },
   ];
   return (
