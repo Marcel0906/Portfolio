@@ -20,7 +20,7 @@ const Resume = () => {
             </td>
             <td></td>
             <td rowSpan="1" align="right" valign="bottom">
-              HTML5, CSS3, Javascript, Node.js, React, Vite, MongoDB, MySQL, Mongoose, Lingoda English B2
+              HTML5, CSS3, Javascript, Node.js, React, Vite, MongoDB, MySQL, Express, Mongoose, Lingoda English B2
             </td>
           </tr>
 
