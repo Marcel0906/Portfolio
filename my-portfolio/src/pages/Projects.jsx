@@ -4,6 +4,7 @@ import weatherImage from "../assets/weather-app.jpg";
 import budgetImage from "../assets/budget-tracker.jpg";
 import spiceImage from "../assets/spice.jpg"
 import bookshelfImage from "../assets/bookshelf.jpg"
+import movethekImage from "../assets/movethek.jpg"
 
 const Projects = () => {
   const projects = [
@@ -48,6 +49,13 @@ const Projects = () => {
       description: "Erstes Backend Teamprojekt ist ein digitales Bücherregal mit Such-, Lösch- und Filterfunktion", 
       image: bookshelfImage,
       link: "https://github.com/Marcel0906/Bookshelf-API",
+    },
+    {
+      id: 8,
+      title: "Mov-E-Thek",
+      description: "Finales Teamprojekt ist eine Online-Videothek und E-Commerce-Plattform", 
+      image: movethekImage,
+      link: "https://github.com/BulletStormXT/movi-e-thek",
     },
   ];
   return (
