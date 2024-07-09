@@ -5,6 +5,7 @@ import budgetImage from "../assets/budget-tracker.jpg";
 import spiceImage from "../assets/spice.jpg"
 import bookshelfImage from "../assets/bookshelf.jpg"
 import movethekImage from "../assets/movethek.jpg"
+import jobfinderImage from "../assets/job-project.jpg"
 
 const Projects = () => {
   const projects = [
@@ -25,7 +26,7 @@ const Projects = () => {
     {
       id: 3,
       title: "Weather-App",
-      description: "Soloprojekt mit Wetterdaten von OpenWeatherMap",
+      description: "Solo-Projekt mit Wetterdaten von OpenWeatherMap",
       image: weatherImage,
       link: "https://github.com/Marcel0906/Weather-App",
     },
@@ -56,6 +57,13 @@ const Projects = () => {
       description: "Finales Teamprojekt ist eine Online-Videothek und E-Commerce-Plattform", 
       image: movethekImage,
       link: "https://github.com/BulletStormXT/movi-e-thek",
+    },
+    {
+      id: 9,
+      title: "jobfinder",
+      description: "Privates Solo-Projekt ist eine React-Jobsuche für Webentwickler und eine Jobliste für Arbeitgeber", 
+      image: jobfinderImage ,
+      link: "https://github.com/Marcel0906/react-jobfinder",
     },
   ];
   return (
