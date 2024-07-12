@@ -20,7 +20,7 @@ const Resume = () => {
             </td>
             <td>Linkedin Learning(incl. Zertifikate):PHP Grundkurs 1 und 2, PHP Storm, SQL, Shopware, Typescript, WordPress, GraphQL</td>
             <td rowSpan="1" align="right" valign="bottom">
-              HTML5, CSS3, Javascript, Node.js, React, Vite, MongoDB, MySQL, Express, Mongoose, Lingoda English B2
+              HTML5, CSS3, Javascript, Node.js, React, Vite, MongoDB, MySQL, Express, Mongoose, Lingoda English C1.1
             </td>
           </tr>
 

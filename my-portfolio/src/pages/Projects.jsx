@@ -61,7 +61,7 @@ const Projects = () => {
     {
       id: 9,
       title: "jobfinder",
-      description: "Privates Solo-Projekt ist eine React-Jobsuche für Webentwickler und eine Jobliste für Arbeitgeber", 
+      description: "Privates Solo-Projekt ist eine React-Jobsuche für Webentwickler und eine Job Erstellung", 
       image: jobfinderImage ,
       link: "https://github.com/Marcel0906/react-jobfinder",
     },
