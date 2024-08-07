@@ -18,7 +18,8 @@ const Resume = () => {
               07/2023 - 09/2024 Full Stack Web Developer bei DCI - Digital
               Career Institute, Berlin, DE
             </td>
-            <td>Linkedin Learning(incl. Zertifikate):PHP Grundkurs 1 und 2, PHP Storm, SQL, Shopware, Typescript, WordPress, GraphQL</td>
+            <td>Linkedin Learning (incl. Zertifikate):
+              PHP Grundkurs 1 und 2, PHP Datenbankentwicklung, SQL, CMS, TYPO3, Shopware, Typescript, WordPress, GraphQL, Generative AI Coding with ChatGPT and Building an AI-First Mindset</td>
             <td rowSpan="1" align="right" valign="bottom">
               HTML5, CSS3, Javascript, Node.js, React, Vite, MongoDB, MySQL, Express, Mongoose, Lingoda English C1.1
             </td>

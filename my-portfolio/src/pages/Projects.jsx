@@ -85,7 +85,7 @@ const Projects = () => {
           </div>
           <p>
             Diese Projekte zeichnen meinen Werdegang als DCI-Student zum Web
-            Developer von der Anfangszeit im Juli 2023 bis jetzt (Stand: Juli
+            Developer von der Anfangszeit im Juli 2023 bis jetzt (Stand: August
             2024) nach. Zukünftige Projekte werden folgen.{" "}
           </p>
           <br></br>
