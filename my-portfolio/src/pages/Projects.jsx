@@ -67,7 +67,7 @@ const Projects = () => {
     },
   ];
   return (
-    <div className="Projects">
+    <div className="projects">
       <br></br> <h1>Projekte</h1>
         <div className="projects-container">
           
@@ -88,9 +88,6 @@ const Projects = () => {
             Developer von der Anfangszeit im Juli 2023 bis jetzt (Stand: August
             2024) nach. Zukünftige Projekte werden folgen.{" "}
           </p>
-          <br></br>
-        
-    
     </div>
   );
 };

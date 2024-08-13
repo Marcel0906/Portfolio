@@ -24,6 +24,12 @@ h1 {
   margin-bottom: 15px;
 }
 
+.Home span {
+  text-decoration: underline;
+  color: #000;
+  padding: 10px;
+}
+
 .my-image {
   text-align: center;
 }
@@ -67,6 +73,7 @@ p {
   font-size: 22px;
   font-weight: bold;
   color: #384730;
+  margin: 10px;
 }
 
 .btn {
@@ -108,10 +115,6 @@ p {
   padding: 10px;
 }
 
-.Home span {
-  text-decoration: underline;
-  color: #000;
-}
 
 .projects-container {
   display: flex;
@@ -123,12 +126,16 @@ p {
 .Footer {
   text-align: center;
   background-color: #7277d1;
-  position: fixed;
+  position: sticky;
+  top: 20px;
   bottom: 0;
   width: 100%;
   left: 2px;
   padding: 10px;
+  margin-top: 20px;
   color: #fff;
 }
+
+
 
 

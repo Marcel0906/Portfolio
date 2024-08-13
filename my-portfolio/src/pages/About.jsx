@@ -18,31 +18,32 @@ const About = () => {
       <h1>Über mich</h1>
       <div className="text-zone">
         <p>
-          Die IT faziniert mich schon seit Jahren. Ich habe mich privat gerne
-          unter anderem über KI-Entwicklungen, Sicherheitstechnologien,
-          Mobilfunk- und Festnetzausbau in Deutschland informiert. Dies zeigte
-          sich zum Beispiel darin, dass ich Freunden und Familienmitgliedern bei
-          der Zusammenstellung und beim Kaufen von PCs, Laptops und Smartphones
-          mit Rat und Tat zur Seite stand. Gerade in einer so stark wachsenden
-          Branche, wie der IT, ist es wichtig, up-to-date zu sein und sich über
-          neue Technologien und Entwicklungen zu informieren. Daher ist es für
-          mich herausfordernd, als auszubildener Full-Stack Developer die
-          Möglichkeit zu nutzen, in einer IT Firma zu arbeiten, die mit
-          innovativen und neuen Technologien diverse Projekte entwickelt.{" "}
+          Die Informatik fasziniert mich seit Jahren. Privat habe ich mich u.a.
+          gerne über Entwicklungen in der KI, Sicherheitstechnologien und den
+          Mobilfunk- und Festnetzausbau in Deutschland informiert. Das hat sich
+          zum Beispiel darin niedergeschlagen, dass ich Freunden und
+          Familienmitgliedern bei der Zusammenstellung und dem Kauf von PCs,
+          Laptops und Smartphones mit Rat und Tat zur Seite gestanden habe.
+          Gerade in einer so schnell wachsenden Branche wie der IT ist es
+          wichtig, auf dem Laufenden zu bleiben und sich über neue Technologien
+          und Entwicklungen zu informieren. Daher ist es für mich eine
+          Herausforderung, als Full-Stack Web/Software Developer die
+          Chance zu nutzen, in einem IT-Unternehmen zu arbeiten, das mit
+          innovativen und neuen Technologien spannende Projekte entwickelt.
         </p>
         <p>
-          Bisher zeichneten Zuverlässigkeit, Pünktlichkeit, Ordnungsbewusstsein
-          und Einsatzbereitschaft meinen Arbeitseinsatz aus. Fristgerechte
-          Fertigstellung und Abgabe meiner Hausarbeiten im Studium sowie
-          Teamarbeit mit anderen DCI-Studenten in der Weiterbildung zum Web
-          Developer kennzeichneten meine Berühungspunkte im agilen
-          Projektmanagement und ersten Erfahrungen in Teamleitungsaufgaben mit Projektpräsentationen. 
+          Zuverlässigkeit, autodidaktischen Lernen, lösungsorientiertes, selbstständiges Arbeiten 
+          zeichneten mein bisheriges Arbeitsverhalten aus. Die termingerechte
+          Fertigstellung und Abgabe meiner Hausarbeiten im Studium sowie die
+          Teamarbeit mit anderen DCI-Studierenden in meiner Weiterbildung beim DCI festigten meine Erfahrungen im agilen
+          Projektmanagement und in Teamleitungsaufgaben mit
+          Projektpräsentationen.
         </p>
         <p>
-          Meine persönlichen Interessen erstrecken sich über das Wandern in der
-          Natur mit Freunden und Familie, Fahrradfahren, campen, joggen,
-          schwimmen und bouldern. Diese Interessen dienen meiner
-          gesundheitlichen Balance zur Bildschirmarbeit. Des Weiteren helfe ich in der Familie bei der Kinder- und Hundebetreuung. 
+          Zu meinen persönlichen Interessen zählen Wandern in der Natur mit
+          Freunden und Familie, Radfahren, Campen, Joggen und Schwimmen. Diese Interessen dienen meinem gesundheitlichen Ausgleich
+          zur Bildschirmarbeit. Außerdem helfe ich in der Familie bei der
+          Kinder- und Hundebetreuung.
         </p>
         <div className="stage-cube-cont">
           <h2>Skillset</h2>
@@ -67,7 +68,6 @@ const About = () => {
             </div>
           </div>
         </div>
-      
       </div>
     </div>
   );
