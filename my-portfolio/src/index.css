@@ -8,6 +8,7 @@ body {
   background-size: cover;
   background-position: center;
   background: #a49589 url(assets/eiche.jpg) no-repeat center top fixed;
+  padding-bottom: 25px;
 }
 
 h1 {
@@ -126,13 +127,12 @@ p {
 .Footer {
   text-align: center;
   background-color: #7277d1;
-  position: sticky;
-  top: 20px;
+  position: fixed;
   bottom: 0;
   width: 100%;
   left: 2px;
   padding: 10px;
-  margin-top: 20px;
+ 
   color: #fff;
 }
 

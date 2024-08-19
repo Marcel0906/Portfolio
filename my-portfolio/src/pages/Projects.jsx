@@ -4,7 +4,7 @@ import weatherImage from "../assets/weather-app.jpg";
 import budgetImage from "../assets/budget-tracker.jpg";
 import spiceImage from "../assets/spice.jpg"
 import bookshelfImage from "../assets/bookshelf.jpg"
-import movethekImage from "../assets/movethek.jpg"
+import movethekImage from "../assets/movethek2.jpg"
 import jobfinderImage from "../assets/job-project.jpg"
 
 const Projects = () => {
