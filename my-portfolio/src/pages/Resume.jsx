@@ -106,7 +106,7 @@ const Resume = () => {
       <p>
         {language === "de" ? (
           <>
-            Zu den beschriebenen Skills schicke ich gerne auf Anfrage über das
+            Zu den beschriebenen Skills schicke ich gerne auf Anfrage über das <br></br>
             <Link to="/contact">
               <button className="btn">Kontaktformular</button>
             </Link>{" "}
@@ -115,7 +115,7 @@ const Resume = () => {
         ) : (
           <>
             I am happy to send the corresponding certificates and other
-            documents upon request via the
+            documents upon request via the 
             <Link to="/contact">
               <button className="btn">contact form</button>
             </Link>
