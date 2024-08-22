@@ -15,12 +15,16 @@ const Home = () => {
   }, [language]);
   return (
     <div className="Home">
-     <div className="language-btn-container">
-      <button className="language-btn" onClick={toggleLanguage}>
-        {language === "de" ? "Switch to English" : "Wechsel zu Deutsch"}
-      </button>
+      <div className="language-btn-container">
+        <button className="language-btn" onClick={toggleLanguage}>
+          {language === "de" ? "Switch to English" : "Wechsel zu Deutsch"}
+        </button>
       </div>
-      <h1>{language === "de" ? "Hallo, ich bin Marcel Kubetin." : "Hello, I am Marcel Kubetin."}</h1>
+      <h1>
+        {language === "de"
+          ? "Hallo, ich bin Marcel Kubetin."
+          : "Hello, I am Marcel Kubetin."}
+      </h1>
       <p>
         {language === "de" ? (
           <>
@@ -38,13 +42,6 @@ const Home = () => {
           </>
         )}
       </p>
-      {/* <h1>Hallo, ich bin Marcel Kubetin.</h1>
-      <p>
-        DCI Student zum <span>Full Stack Web Developer aus Bielefeld.</span>
-        <Link to="/contact">
-          <button className="btn">Contact me</button>
-        </Link>
-      </p> */}
 
       <div className="icon-list">
         <div className="icon1">

@@ -7,22 +7,22 @@ const Resume = () => {
     setLanguage((prevLanguage) => (prevLanguage === "de" ? "en" : "de"));
   };
 
-  useEffect(() => {
-   
-  }, [language]);
+  useEffect(() => {}, [language]);
   return (
     <div className="Resume">
-          <div className="language-btn-container">
-      <button className="language-btn" onClick={toggleLanguage}>
-        {language === "de" ? "Switch to English" : "Wechsel zu Deutsch"}
-      </button>
+      <div className="language-btn-container">
+        <button className="language-btn" onClick={toggleLanguage}>
+          {language === "de" ? "Switch to English" : "Wechsel zu Deutsch"}
+        </button>
       </div>
       <h1>{language === "de" ? "Lebenslauf" : "Resume"}</h1>
-     
+
       <table className="resume-table">
         <thead>
           <tr>
-          <th scope="col">{language === "de" ? "Erfahrung" : "Experience"}</th>
+            <th scope="col">
+              {language === "de" ? "Erfahrung" : "Experience"}
+            </th>
             <th scope="col">{language === "de" ? "Bildung" : "Education"}</th>
             <th scope="col">{language === "de" ? "Skills" : "Skills"}</th>
           </tr>
@@ -30,13 +30,18 @@ const Resume = () => {
         <tbody>
           <tr>
             <td>
-                 07/2023 - 09/2024 Full Stack Web Developer bei DCI - Digital Career Institute, Berlin, DE
+              07/2023 - 09/2024 Full Stack Web Developer bei DCI - Digital
+              Career Institute, Berlin, DE
             </td>
             <td>
-              Linkedin Learning (incl. Zertifikate):
-              PHP Grundkurs 1 und 2, PHP Datenbankentwicklung, SQL, CMS, TYPO3, Shopware, Typescript, WordPress, GraphQL, Generative AI Coding with ChatGPT and Building an AI-First Mindset</td>
+              Linkedin Learning (incl. Zertifikate): PHP Grundkurs 1 und 2, PHP
+              Datenbankentwicklung, SQL, CMS, TYPO3, Shopware, Typescript,
+              WordPress, GraphQL, Generative AI Coding with ChatGPT and Building
+              an AI-First Mindset
+            </td>
             <td rowSpan="1" align="right" valign="bottom">
-              HTML5, CSS3, Javascript, Node.js, React, Vite, MongoDB, MySQL, Express, Mongoose, Lingoda English C1.1
+              HTML5, CSS3, Javascript, Node.js, React, Vite, MongoDB, MySQL,
+              Express, Mongoose, Lingoda English C1.1
             </td>
           </tr>
 
@@ -99,20 +104,22 @@ const Resume = () => {
         </tbody>
       </table>
       <p>
-      {language === "de" ? (
-    <>
-        Zu den beschriebenen Skills schicke ich gerne auf Anfrage über das
-        <Link to="/contact">
-          <button className="btn">Kontaktformular</button>
-        </Link>{" "}
-        die entsprechenden Zertifikate und sonstigen Dokumente.
-        </>
+        {language === "de" ? (
+          <>
+            Zu den beschriebenen Skills schicke ich gerne auf Anfrage über das
+            <Link to="/contact">
+              <button className="btn">Kontaktformular</button>
+            </Link>{" "}
+            die entsprechenden Zertifikate und sonstigen Dokumente.
+          </>
         ) : (
           <>
-            I am happy to send the corresponding certificates and other documents upon request via the
+            I am happy to send the corresponding certificates and other
+            documents upon request via the
             <Link to="/contact">
               <button className="btn">contact form</button>
-            </Link>.
+            </Link>
+            .
           </>
         )}
       </p>
