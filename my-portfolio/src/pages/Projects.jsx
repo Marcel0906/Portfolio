@@ -26,6 +26,7 @@ const Projects = () => {
         language === "de"
           ? "Erstes Teamprojekt ist eine vollständige Restaurantwebsite"
           : " First team project is a full restaurant website",
+         
       image: burgerImage,
       link: "https://burger-shot-5378ezzpg-na5ty.vercel.app/",
     },
@@ -111,7 +112,7 @@ const Projects = () => {
       <div className="projects-container">
         {projects.map((project) => (
           <div className="project-preview" key={project.id}>
-            <img src={project.image} alt={project.title} />
+            <img className="image-project" src={project.image} alt={project.title} />
             <h3>{project.title}</h3> <h4> {project.description}</h4>
             <a href={project.link} target="_blank" rel="noreferrer">
               <button className="btn">
