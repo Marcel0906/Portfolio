@@ -1,4 +1,5 @@
 import { React, useRef } from "react";
+import  { useState, useEffect } from "react";
 import emailjs from "@emailjs/browser";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
@@ -10,6 +11,15 @@ import {
 import "./Contact.css";
 
 const Contact = () => {
+  const [language, setLanguage] = useState("de");
+
+  const toggleLanguage = () => {
+    setLanguage((prevLanguage) => (prevLanguage === "de" ? "en" : "de"));
+  };
+
+  useEffect(() => {
+   
+  }, [language]);
   const refForm = useRef();
   const sendEmail = (e) => {
     e.preventDefault();
@@ -33,14 +43,28 @@ const Contact = () => {
   };
   return (
     <div>
-      <br></br>
-      <h1>Kontakt</h1>
+       <div className="language-btn-container">
+      <button className="language-btn" onClick={toggleLanguage}>
+        {language === "de" ? "Switch to English" : "Wechsel zu Deutsch"}
+      </button>
+      </div>
+      <h1>{language === "de" ? "Kontakt" : "Contact"}</h1>
       <div className="contact-page">
         <div className="text">
           <h2>
+          {language === "de" ? (
+    <>
             Wenn Sie weitere Fragen zu meiner Person oder zu meiner Arbeit
             haben, können Sie mich gerne über das Kontaktformular anschreiben.
             Ich freue mich auf Ihre Nachricht!
+            </>
+  ) : (
+    <>
+      If you have any further questions about my person or my work
+            you can contact me via the contact form.
+            I look forward to your message!
+      </>
+  )}
           </h2>
           <div className="contact-form">
             <form ref={refForm} onSubmit={sendEmail}>
@@ -129,7 +153,6 @@ const Contact = () => {
           </a>
         </div>
       </div>
-      <br></br>
     </div>
   );
 };

@@ -9,6 +9,7 @@ body {
   background-position: center;
   background: #a49589 url(assets/eiche.jpg) no-repeat center top fixed;
   padding-bottom: 25px;
+  padding-top: 40px;
 }
 
 h1 {
@@ -79,6 +80,21 @@ p {
 
 .btn {
   background-color: #7277d1;
+  color: #fff;
+  border: none;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.language-btn-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%; /* oder eine andere geeignete Höhe */
+}
+
+.language-btn {
+  background-color: green;
   color: #fff;
   border: none;
   font-size: 20px;
