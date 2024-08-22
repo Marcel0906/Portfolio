@@ -151,11 +151,11 @@ p {
   color: #fff;
 }
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .language-btn-container {
     position: fixed;
   }
-}
+} */
 
 .image-project {
   border: 1px solid #000;
