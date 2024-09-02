@@ -6,6 +6,7 @@ import spiceImage from "../assets/spice.jpg";
 import bookshelfImage from "../assets/bookshelf.jpg";
 import movethekImage from "../assets/movethek4.jpg";
 import jobfinderImage from "../assets/job-project.jpg";
+import typo3Image from "../assets/typo3.jpg";
 
 import React, { useState, useEffect } from "react";
 
@@ -99,6 +100,16 @@ const Projects = () => {
           : "Private solo project is a React job search for web developers and a job creation",
       image: jobfinderImage,
       link: "https://github.com/Marcel0906/react-jobfinder",
+    },
+    {
+      id: 9,
+      title: "Typo3 internship project",
+      description:
+        language === "de"
+          ? "Typo3 Portfolio Projekt in Kooperation mit der Web-Kon Internetagentur"
+          : "Typo3 portfolio project in cooperation with Web-Kon Internet agency",
+      image: typo3Image,
+      link: "https://github.com/Marcel0906/typo3-project",
     },
   ];
   return (
