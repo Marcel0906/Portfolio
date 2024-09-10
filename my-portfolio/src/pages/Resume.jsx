@@ -28,6 +28,17 @@ const Resume = () => {
           </tr>
         </thead>
         <tbody>
+        <tr>
+            <td>
+              07/2024 - 09/2024 Web Developer bei RFS Mediagroup in der Web-Kon Internetagentur, Stadtlohn, DE
+            </td>
+            <td>
+            In Microsoft Teams Meetings mit dem Team Lead Web Developer wurde ich mit dem praktischen Arbeiten in Typo3 vertraut gemacht und habe erfolgreich ein Projekt in Typo3 umgesetzt. Mein Praktikumszeugnis erhalte ich nächster Zeit.
+            </td>
+            <td rowSpan="1" align="right" valign="bottom">
+              HTML5, CSS3, Javascript, PHP, TYPO3, CMS, Trello
+            </td>
+          </tr>
           <tr>
             <td>
               07/2023 - 09/2024 Full Stack Web Developer bei DCI - Digital
@@ -36,7 +47,7 @@ const Resume = () => {
             <td>
               Linkedin Learning (incl. Zertifikate): PHP Grundkurs 1 und 2, PHP
               Datenbankentwicklung, SQL, CMS, TYPO3, Shopware, Typescript,
-              WordPress, GraphQL, Generative AI Coding with ChatGPT and Building
+              WordPress, GraphQL, Figma, Generative AI Coding with ChatGPT and Building
               an AI-First Mindset
             </td>
             <td rowSpan="1" align="right" valign="bottom">

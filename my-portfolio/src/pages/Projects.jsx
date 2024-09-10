@@ -133,21 +133,6 @@ const Projects = () => {
           </div>
         ))}
       </div>
-      <p>
-        {language === "de" ? (
-          <>
-            Diese Projekte zeichnen meinen Werdegang als DCI-Student zum Web
-            Developer von der Anfangszeit im Juli 2023 bis jetzt (Stand: September
-            2024) nach. Zukünftige Projekte werden folgen.
-          </>
-        ) : (
-          <>
-            These projects mark my path as a DCI student to Web Developer from
-            the beginning in July 2023 until now (as of September 2024). Future
-            projects will follow.
-          </>
-        )}
-      </p>
     </div>
   );
 };
